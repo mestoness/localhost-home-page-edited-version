@@ -3,7 +3,7 @@
    <head>
       <meta charset="utf-8">
       <meta content="width=device-width, initial-scale=1" name="viewport">
-      <link rel="stylesheet" type="text/css" href="https://gistcdn.githack.com/AhmetBakiMms/f93c7c8f12b3f9e22a8e53153f10a93d/raw/f14d3beeb555b10340cb0ee4630977cb0a74d2c7/font-awesome.css">
+      <link rel="stylesheet" type="text/css" href="https://gistcdn.githack.com/mestoness/f93c7c8f12b3f9e22a8e53153f10a93d/raw/f14d3beeb555b10340cb0ee4630977cb0a74d2c7/font-awesome.css">
       <style type="text/css">
          body::-webkit-scrollbar-track {
          background-color: #2C2D2D;
